@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://total-guard-website.vercel.app/</loc>
+        <lastmod>2025-12-03</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/logo.jpg</image:loc>
+            <image:title>Total Guard Logo</image:title>
+            <image:caption>Total Guard - PPE Company Logo</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/high-visibility-suit.jpg</image:loc>
+            <image:title>High Visibility Workwear</image:title>
+            <image:caption>Professional high-visibility safety workwear from Total Guard</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Products section -->
+    <url>
+        <loc>https://total-guard-website.vercel.app/#products</loc>
+        <lastmod>2025-12-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/flame-retardant-suit.jpg</image:loc>
+            <image:title>Flame Retardant Workwear</image:title>
+            <image:caption>Advanced flame retardant protective clothing for high-risk environments</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/hard-hat-workwear.jpg</image:loc>
+            <image:title>Head Protection Equipment</image:title>
+            <image:caption>Industrial hard hats and safety equipment for workplace protection</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/industrial-conti-suit.jpg</image:loc>
+            <image:title>Safety Footwear</image:title>
+            <image:caption>Professional safety boots and protective footwear</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/ppe-inventory.jpg</image:loc>
+            <image:title>Complete PPE Solutions</image:title>
+            <image:caption>Comprehensive workplace safety equipment and accessories</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- About section -->
+    <url>
+        <loc>https://total-guard-website.vercel.app/#about</loc>
+        <lastmod>2025-12-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+        <image:image>
+            <image:loc>https://total-guard-website.vercel.app/images/mens-womens-workwear.jpg</image:loc>
+            <image:title>Professional Team in PPE</image:title>
+            <image:caption>Professional workers wearing Total Guard PPE equipment</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Contact section -->
+    <url>
+        <loc>https://total-guard-website.vercel.app/#contact</loc>
+        <lastmod>2025-12-03</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>
+    
+</urlset>
